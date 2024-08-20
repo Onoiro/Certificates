@@ -29,6 +29,5 @@
 - [GO](https://www.sololearn.com/certificates/CT-MTEFFBMW)
 
 ## Hexlet
-- [Python-разработчик](Hexlet/Andrey Bogatyrev Python En.png)
-- [Python-разработчик](Hexlet/Andrey Bogatyrev Python Ru.png)
-
+- ![Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
+- ![Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_Ru.png)
