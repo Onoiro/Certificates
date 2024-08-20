@@ -1,5 +1,5 @@
 # Certificates
-## My graduation certificates
+## Here are my certificates of completion for various programming courses.
 
 ## Geek Brains
 - [Basics of programming](https://gb.ru/certificates/1304659.en)
