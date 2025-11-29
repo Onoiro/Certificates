@@ -33,7 +33,7 @@
 - ![Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_Ru.png)
 
 ### Selectel
-- ![Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.pdf)
+- ![Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.png)
 
 ### Karpov.Courses
 - [Docker](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/)
