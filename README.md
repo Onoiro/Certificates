@@ -1,49 +1,41 @@
-## Certificates
-### Here are my certificates of completion for various programming courses
+# 🎓 Certificates & Achievements
 
-### Hexlet
+Here is a collection of certificates confirming my skills in Python development, Linux administration, and Database management.
 
-- [Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
+## 🐍 Python Ecosystem
 
-### Selectel
+| Course | Provider | Links |
+| :--- | :--- | :--- |
+| **Python Developer** | Hexlet | [View Certificate](Hexlet/Andrey_Bogatyrev_Python_En.png) |
+| **Fundamentals of Python** | Geek Brains | [Verify Link](https://gb.ru/certificates/1361310.en) |
+| **Python for Beginners** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-ALARKOBV) |
+| **Intermediate Python** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-PEPS8WPS) |
+| **Python Core** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-YFGLVMJG) |
+| **Python Data Structures** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-GI0LOTI2) |
 
-- [Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.png)
+## 🐧 DevOps & System Administration
 
-### Karpov.Courses
+| Course | Provider | Links |
+| :--- | :--- | :--- |
+| **Linux System Administrator** | Selectel | [View Certificate](Selectel/Sysadmin_Linux.png) |
+| **Docker** | Karpov.Courses | [Verify Link](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/) |
 
-- [Docker](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/)
+## 🗄️ Data, SQL & AI
 
-### Межрегиональный учебный центр инновационных технологий
+| Course | Provider | Links |
+| :--- | :--- | :--- |
+| **Introduction to SQL & Database operations** | Netology | [View Certificate](Netology/Introduction_to_SQL_and_Database_management.png) |
+| **Neural Networks: Working with AI Systems** | MUCIT | [View Certificate](MUCIT/Neural_networks_working_with_AI_systems.png) |
+| **SQL** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-ZRAO1QPO) |
 
-- [Нейросети: работа с системами искусственного интеллекта](MUCIT/Neural_networks_working_with_AI_systems.png)
+## 🌐 Web Development & Basics
 
-### Geek Brains
+| Course | Provider | Links |
+| :--- | :--- | :--- |
+| **Web Development. Quick Start** | Geek Brains | [Verify Link](https://gb.ru/certificates/1411039.en) |
+| **Website Layout Basics** | Netology | [View Certificate](Netology/Basics_of_website_layout.png) |
+| **Basics of Programming** | Geek Brains | [Verify Link](https://gb.ru/certificates/1304659.en) |
+| **GO** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-MTEFFBMW) |
 
-- [Basics of programming](https://gb.ru/certificates/1304659.en)
-
-- [Fundamentals of Python](https://gb.ru/certificates/1361310.en)
-
-- [Web development. Quick start](https://gb.ru/certificates/1411039.en)
-
-### Netology
-
-- [Website layout basics](Netology/Basics_of_website_layout.png)
-<!-- - [Website layout basics](https://netology.ru/backend/api/user/programs/21578/pdf_certificate) -->
-- [Introduction to SQL and the database operations](Netology/Introduction_to_SQL_and_Database_management.png)
-<!-- - [Introduction to SQL and the database operations](https://netology.ru/backend/api/user/programs/23161/pdf_certificate) -->
-- [Python-development for beginners](Netology/Python_developing_for_beginners.png)
-<!-- - [Python-development for beginners](https://netology.ru/backend/api/user/programs/25523/pdf_certificate) -->
-
-### Sololearn
-
-- [Python for Beginners](https://www.sololearn.com/certificates/CT-ALARKOBV)
-
-- [Intermediate Python](https://www.sololearn.com/certificates/CT-PEPS8WPS)
-
-- [Python Core](https://www.sololearn.com/certificates/CT-YFGLVMJG)
-
-- [Python Data Structures](https://www.sololearn.com/certificates/CT-GI0LOTI2)
-
-- [SQL](https://www.sololearn.com/certificates/CT-ZRAO1QPO)
-
-- [GO](https://www.sololearn.com/certificates/CT-MTEFFBMW)
+---
+*Last updated: 2025-11-30* 
