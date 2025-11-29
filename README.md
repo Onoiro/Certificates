@@ -20,13 +20,18 @@ Here is a collection of certificates confirming my skills in Python development,
 | **Linux System Administrator** | Selectel | [View Certificate](Selectel/Sysadmin_Linux.png) |
 | **Docker** | Karpov.Courses | [Verify Link](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/) |
 
-## 🗄️ Data, SQL & AI
+## 🗄️ SQL & Database
 
 | Course | Provider | Links |
 | :--- | :--- | :--- |
 | **Introduction to SQL & Database operations** | Netology | [View Certificate](Netology/Introduction_to_SQL_and_Database_management.png) |
-| **Neural Networks: Working with AI Systems** | MUCIT | [View Certificate](MUCIT/Neural_networks_working_with_AI_systems.png) |
 | **SQL** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-ZRAO1QPO) |
+
+## 🧠 AI & Neural Networks
+
+| Course | Provider | Certificate / Preview |
+| :--- | :--- | :--- |
+| **Neural Networks: Working with AI Systems** | MUCIT | [View Certificate](MUCIT/Neural_networks_working_with_AI_systems.png) |
 
 ## 🌐 Web Development & Basics
 
@@ -37,5 +42,9 @@ Here is a collection of certificates confirming my skills in Python development,
 | **Basics of Programming** | Geek Brains | [Verify Link](https://gb.ru/certificates/1304659.en) |
 | **GO** | Sololearn | [Verify Link](https://www.sololearn.com/certificates/CT-MTEFFBMW) |
 
+
+## 📫 How to reach me
+- **Telegram:** [@AndreeBo](https://t.me/AndreeBo)
+- **Email:** donoriono@gmail.com
 ---
 *Last updated: 2025-11-30* 
