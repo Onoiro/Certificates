@@ -39,4 +39,4 @@
 - [Докер с нуля](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/)
 
 ### Межрегиональный учебный центр инновационных технологий
-- [Нейросети: работа с системами искусственного интеллекта](МУЦИТ/Neural networks: working with AI systems.png)
+- [Нейросети: работа с системами искусственного интеллекта](MUCIT/Neural_networks_working_with_AI_systems.png)
