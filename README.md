@@ -29,11 +29,10 @@
 - [GO](https://www.sololearn.com/certificates/CT-MTEFFBMW)
 
 ### Hexlet
-- ![Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
-- ![Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_Ru.png)
+- [Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
 
 ### Selectel
-- ![Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.png)
+- [Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.pdf)
 
 ### Karpov.Courses
 - [Docker](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/)
