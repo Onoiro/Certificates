@@ -1,5 +1,21 @@
 ## Certificates
-### Here are my certificates of completion for various programming courses.
+### Here are my certificates of completion for various programming courses
+
+### Hexlet
+
+- [Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
+
+### Selectel
+
+- [Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.png)
+
+### Karpov.Courses
+
+- [Docker](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/)
+
+### Межрегиональный учебный центр инновационных технологий
+
+- [Нейросети: работа с системами искусственного интеллекта](MUCIT/Neural_networks_working_with_AI_systems.png)
 
 ### Geek Brains
 
@@ -31,19 +47,3 @@
 - [SQL](https://www.sololearn.com/certificates/CT-ZRAO1QPO)
 
 - [GO](https://www.sololearn.com/certificates/CT-MTEFFBMW)
-
-### Hexlet
-
-- [Python-разработчик](Hexlet/Andrey_Bogatyrev_Python_En.png)
-
-### Selectel
-
-- [Системный администратор Linux с нуля](Selectel/Sysadmin_Linux.png)
-
-### Karpov.Courses
-
-- [Docker](https://lab.karpov.courses/certificate/f5f41ede-3fe1-4d35-867a-b1776cba908c/en/)
-
-### Межрегиональный учебный центр инновационных технологий
-
-- [Нейросети: работа с системами искусственного интеллекта](MUCIT/Neural_networks_working_with_AI_systems.png)
